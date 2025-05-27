@@ -100,12 +100,5 @@ Open the notebook you want to run and execute cells interactively.
 ## Contributing
 
 Pull requests are welcome\! Feel free to open issues or suggest improvements.
-
-## License
-
-This project is licensed under the [MIT License](https://www.google.com/search?q=LICENSE).
-
------
-
 ```
 ```
