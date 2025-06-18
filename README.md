@@ -12,6 +12,7 @@ A collection of machine learning projects and examples using [scikit-learn](http
 - Ready-to-run examples with datasets included
 
 ## Folder Structure
+```markdown
 ├── Linear-Regression/
 │   └── linear\_regression.ipynb
 ├── Logistic-Regression/
@@ -21,25 +22,9 @@ A collection of machine learning projects and examples using [scikit-learn](http
 ├── data/
 │   └── sample\_datasets.csv
 └── README.md
-
-````markdown
-
-## Requirements
-
-Install dependencies using pip:
-
-```bash
-pip install -r requirements.txt
-````
-
-
-## How to Set Up and Run
-
-### Linux / macOS / Windows
+```
 
 1.  **Clone the repo**:
-
-<!-- end list -->
 
 ```bash
 git clone [https://github.com/juto-shogan/scikit-learn.git](https://github.com/juto-shogan/scikit-learn.git)
