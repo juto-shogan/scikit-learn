@@ -26,7 +26,7 @@ A collection of machine learning projects and examples using [scikit-learn](http
 │   └── sample\_datasets.csv
 └── README.md
 
-````
+````markdown
 
 ## Requirements
 
