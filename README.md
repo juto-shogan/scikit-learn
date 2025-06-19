@@ -25,10 +25,6 @@ A collection of machine learning projects and examples using [scikit-learn](http
 ```
 
 
-  - ML beginners exploring scikit-learn
-  - Data science students
-  - Anyone who prefers learning by doing
-
 ## Contributing
 
 Pull requests are welcome\! Feel free to open issues or suggest improvements.
