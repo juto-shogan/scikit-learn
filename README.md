@@ -24,31 +24,6 @@ A collection of machine learning projects and examples using [scikit-learn](http
 └── README.md
 ```
 
-1.  **Clone the repo**:
-
-```bash
-git clone [https://github.com/juto-shogan/scikit-learn.git](https://github.com/juto-shogan/scikit-learn.git)
-cd scikit-learn
-```
-
-2.  **Create a virtual environment** (recommended):
-
-<!-- end list -->
-
-```bash
-# Windows
-python -m venv venv
-venv\Scripts\activate
-
-# macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
-```
-
-
-Open the notebook you want to run and execute cells interactively.
-
-## Who This Is For
 
   - ML beginners exploring scikit-learn
   - Data science students
